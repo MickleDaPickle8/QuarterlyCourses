@@ -1,0 +1,2 @@
+CIS166|Programming Business Objects|Ashraf Alattar|fully-Online|5|2|11|A
+CIS 145|access|Ashraf Alattar|In-Person|5|W|10:30 PM|A

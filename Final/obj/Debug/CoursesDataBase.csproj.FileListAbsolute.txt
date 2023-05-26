@@ -1,0 +1,26 @@
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.csproj.AssemblyReference.cache
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.frmCourses.resources
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.frmNewCourse.resources
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.frmQuarters.resources
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.Properties.Resources.resources
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.csproj.GenerateResource.cache
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.csproj.CoreCompileInputs.cache
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\bin\Debug\CoursesDataBase.exe.config
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\bin\Debug\CoursesDataBase.exe
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\bin\Debug\CoursesDataBase.pdb
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.exe
+C:\Users\tom\OneDrive\Desktop\final\CoursesDataBase\CoursesDataBase\obj\Debug\CoursesDataBase.pdb
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\bin\Debug\CoursesDataBase.exe.config
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\bin\Debug\CoursesDataBase.exe
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\bin\Debug\CoursesDataBase.pdb
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.csproj.AssemblyReference.cache
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.frmCourses.resources
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.frmNewCourse.resources
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.frmQuarters.resources
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.Properties.Resources.resources
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.csproj.GenerateResource.cache
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.exe
+C:\Users\Thele\OneDrive\Desktop\School Q3\166 PBO\Project\Final\obj\Debug\CoursesDataBase.pdb
